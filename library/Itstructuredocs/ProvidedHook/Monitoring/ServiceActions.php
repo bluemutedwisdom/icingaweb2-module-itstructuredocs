@@ -1,5 +1,5 @@
 <?php
-namespace Icinga\Module\Itstructuredocs;
+namespace Icinga\Module\Itstructuredocs\ProvidedHook\Monitoring;
 
 use Icinga\Module\Monitoring\Object\Host;
 use Icinga\Module\Monitoring\Object\Service;

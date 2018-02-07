@@ -1,6 +1,6 @@
 <?php
 /* Icinga Web 2 OSMC Module (c) 2017 Icinga Development Team | GPLv2+ */
-namespace Icinga\Module\Itstructuredocs;
+namespace Icinga\Module\Itstructuredocs\ProvidedHook;
 
 use Icinga\Module\Monitoring\Hook\DetailviewExtensionHook;
 use Icinga\Module\Monitoring\Object\MonitoredObject;
